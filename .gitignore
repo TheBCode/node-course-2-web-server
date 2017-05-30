@@ -60,3 +60,6 @@ typings/
 .env
 
 
+.gitignore
+.idea/vcs.xml
+server.log
